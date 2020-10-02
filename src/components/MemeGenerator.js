@@ -34,7 +34,7 @@ export default class MemeGenerator extends Component {
 	}
 	render() {
 		return (
-			<div>
+			<div className="container">
 				<form className="meme-form">
 					<input
 						type="text"
